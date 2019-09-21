@@ -25,6 +25,8 @@ function buildMetadata(sample) {
 
     // BONUS: Build the Gauge Chart
 
+
+
 function buildCharts(sample) {
 
   // @TODO: Use `d3.json` to fetch the sample data for the plots
